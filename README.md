@@ -28,8 +28,8 @@ module.exports = {
         "**/*.js"
       ],
       exclude: [
-        "/polymer/polymer.js",
-        "/platform/platform.js"
+        "polymer/polymer.js",
+        "platform/platform.js"
       ]
     }
   }
@@ -81,8 +81,8 @@ module.exports = {
         "**/*.js"
       ],
       exclude: [
-        "/polymer/polymer.js",
-        "/platform/platform.js"
+        "polymer/polymer.js",
+        "platform/platform.js"
       ],
       thresholds: {
         global: {
