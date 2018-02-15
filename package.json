@@ -23,11 +23,14 @@
   },
   "homepage": "https://github.com/thedeeno/web-component-tester-istanbul",
   "dependencies": {
+    "dom5": "^3.0.0",
     "express": "^4.15.3",
     "istanbul": "^0.4.0",
     "istanbul-threshold-checker": "^0.1.0",
     "lodash": "^4.0.0",
-    "minimatch": "^3.0.0"
+    "minimatch": "^3.0.0",
+    "parse5": "^4.0.0",
+    "strip-comments": "^0.4.4"
   },
   "wct-plugin": {
     "cli-options": {
